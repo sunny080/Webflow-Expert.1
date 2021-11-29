@@ -1,0 +1,1395 @@
+*{
+    margin: 0;
+    padding:0;
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+    
+}
+body{
+    min-width: 375px;
+}
+.lose{
+    display: flex;
+    justify-content: center;
+}
+.ben{
+    margin-top: 30px;
+    width: 85%;
+    display: flex;
+    width: 80%;
+    padding-top:30px ;
+    justify-content: space-between;
+}
+.bean{
+    
+    margin-top:2px;
+    display: flex;
+    list-style: none;
+
+}
+.jhon{
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight:600;
+}
+.jhnn{
+    font-weight:600;
+
+    
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: sans-serif;
+
+}
+.jhon:hover{
+    color: rgb(77, 180, 141);
+    transition: .5s;
+}
+.jhnn:hover{
+    color: rgb(77, 180, 141);
+    transition: .5s;
+}
+.HELL{
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.HELL:hover{
+   color: rgb(77, 180, 141);
+   transition:.5s;
+}
+@media (max-width:480px){
+    .jhnn{
+        display: none;
+    }
+}
+
+
+
+
+.rip{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.pop{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+}
+
+.just{
+    margin-top: 100px;
+    width: 60%;
+}
+.wonl{
+    font-size: 50px;
+    width: 100%;
+    line-height: 60px;
+}
+.liu{
+    color: rgb(81, 81, 212);
+    
+}
+.lit{
+    width: 100%;
+    height: 100%;
+}
+.yip{
+    width: 40%;
+}
+.lis{
+    font-size:22px ;
+    width: 70%;
+    line-height: 40px;
+}
+.eri{
+    border: none;
+    margin-top: 50px;
+    font-size: 20px;
+    color: rgb(77, 180, 141);
+    font-weight: 900;
+    cursor: pointer;
+}
+.rop{
+    font-size: 25px;
+    cursor: pointer;
+    
+}
+.rop:hover{
+        transition: .5s;
+
+        transform: translatey(8px);
+     }
+
+@media (max-width:875px){
+    .just{
+        width: 70%;
+    }
+    .yip{
+        width: 30%;
+        margin-top: 80px;
+    }
+    .lit{
+        height: 70%;
+        width: 100%;
+
+    }
+    .wonl{
+        font-size: 35px;
+    }
+    .lis{
+        font-size:18px ;
+        width: 100%;
+    }
+}
+@media (max-width:690px){
+    .just{
+        margin-top: -10px;
+        
+    }
+    .yip{
+        margin-top: 0px;
+    }
+    .lit{
+        height: 50%;
+        width: 140%;
+    }
+    .wonl{
+        font-size: 25px;
+        line-height: 40px;
+
+    }
+    .eri{
+        margin-top: 10px;
+    }
+}   
+@media (max-width:430px){
+    .eri{
+        font-size: 15px;
+        
+    }
+}
+
+
+
+.elin{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+.opl{
+    width: 80%;
+}
+.qop{
+    color: rgb(197, 72, 72);
+    font-size: 35px;
+}
+.pli{
+    width: 90%;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 50px;
+    line-height: 50px;
+}
+.etol{
+    margin-top: 30px;
+    font-size: 18px;
+    width: 500px;
+    font-weight: 100;
+    line-height: 30px;
+}
+.caps{
+    margin-top: 30px;
+    font-size: 18px;
+    width: 500px;
+    font-weight: 100;
+    line-height: 30px;
+}
+.loop{
+    color: rgb(197, 72, 72);
+    border: none;
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 30px;
+    cursor: pointer;
+    
+
+}
+.polk{
+    font-size: 23px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.polk:hover{
+    transform: translatex(5px);
+    transition: .5s;
+}
+@media (max-width:715px){
+    .pli{
+        font-size: 26px;
+    }
+}
+@media (max-width:560px){
+    .etol{
+        width: 100%;
+    }
+    .caps{
+        width: 100%;
+    }
+    .elin{
+        margin-top: 10%;
+    }
+}
+.hool{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+.hol{
+  width: 80%;
+}
+.tab{
+    width: 100%;
+    height: 100%;
+}
+@media (max-width:750px){
+    .tab{
+        height: 200%;
+    }
+}
+.idty{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.wty{
+    width: 80%;
+    text-align: center;
+
+    justify-content: center;
+}
+.istr{
+    font-size: 150px;
+    color: rgb(197, 72, 72);
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    
+}
+.kolp{
+    font-size: 22px;
+    margin-top: -30px;
+    width: 710px;
+    line-height: 40px;
+   
+    
+    
+}
+.rote{
+    margin-top: 50px;
+}
+.wroi{
+    font-size: 20px;
+    margin-top: 40px;
+    font-weight: 100;
+    color: rgb(233, 227, 227);
+}
+.iplo{
+    font-size: 15px;
+
+    margin-top: 13px;
+}
+.lopit{
+    color:rgb(197, 72, 72); 
+    font-weight: 100;
+}
+@media (max-width:600px){
+    .kolp{
+        font-size: 18px;
+    }
+    .idty{
+        margin-top: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ipool{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 150px;
+}
+.ripo{
+    width: 80%;
+    display: flex;
+}
+.folo{
+    width: 50%;
+    padding-top: 100px;
+}
+.erop{
+    color: rgb(180, 84, 180);
+}
+.sunny{
+    margin-top: 50px;
+    font-size: 40px;
+    width: 90%;
+    line-height: 65px;
+    font-weight: 100;
+}
+.talha{
+    width:90% ;
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 0;
+
+}
+.honey{
+    width:90% ;
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 0;
+}
+.eglo{
+    margin-top: 40px;
+    border: none;
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+    color: rgb(180, 84, 180);
+}
+.flp{
+    color: rgb(180, 84, 180);
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+.flp:hover{
+    transform:translatex(5px);
+    transition: .5s;
+}
+.rilu{
+    width: 50%;
+}
+.mami{
+    width: 100%;
+    height: 90%;
+}
+
+@media (max-width:865px){
+    .ipool{
+        margin-top: 0;    
+      }
+    .ripo{
+        flex-direction: column;
+    }
+    .folo{
+        width: 100%;
+    }
+    .rilu{
+        width: 100%;
+        margin-top: 100px;
+    }
+}
+
+.qplo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.sold{
+    width: 80%;
+    text-align: center;
+}
+.ritu{
+    font-size: 150px;
+    color: rgb(180, 84, 180);
+}
+.losty{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30px;
+}
+.qont{
+    font-size: 20px;
+    font-weight: 500;
+    width: 60%;
+    line-height: 40px;
+}
+.fuli{
+    margin-top: 50px;
+}
+.ging{
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(240, 236, 236);
+    font-weight:100 ;
+}
+.jimy{
+    margin-top: 20px;
+    font-size: 16px;
+
+}
+.tony{
+    color: rgb(180, 84, 180);
+    font-weight: 100;
+}
+
+
+@media (max-width:800px){
+    .qont{
+        width: 100%;
+    }
+}
+@media (max-width:550px){
+    .sunny{
+        font-size: 30px;
+        }
+}
+
+
+
+
+
+.chota{
+    width: 100%;
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+}
+.chutki{
+    display: flex;
+    width: 80%;
+
+}
+.jagu{
+    width: 50%;
+
+}
+.kaliya{
+    width: 100%;
+    height: 100%;
+
+}
+.gami{
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+.sliku{
+    font-size: 30px;
+    color: rgb(75, 189, 75);
+    font-weight: 700;
+}
+.flop{
+    font-size: 40px;
+    width: 90%;
+    margin-top: 40px;
+    line-height: 60px;
+    font-weight: 100;
+
+}
+.qpty{
+    font-size: 19px;
+    font-weight: 100;
+    width: 95%;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.jmila{
+    font-size: 19px;
+    font-weight: 100;
+    width: 100%;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.woputy{
+    border: none;
+    margin-top: 50px;
+    color: rgb(75, 189, 75);
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.slowlu{
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(75, 189, 75);
+
+   
+}
+.slowlu:hover{
+    transform: translatex(5px);
+    transition: .5s;
+}
+
+
+
+@media (max-width:870px) {
+    .chutki{
+        flex-direction: column-reverse;
+
+    }
+    .gami{
+        padding-left: 0;
+        width: 100%;
+        
+    }
+    .chota{
+        margin-top: 30px;
+    }
+    .jagu{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    
+}
+
+
+.wong{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.bhai{
+    width: 80%;
+}
+.toty{
+    color: rgb(255, 94, 0);
+    font-size: 30px;
+    font-weight: 700;
+}
+.boltp{
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 100;
+    width: 90%;
+    line-height: 60px;
+}
+.jalia{
+    width: 48%;
+    line-height: 35px;
+    margin-top: 30px;
+    font-size: 19px;
+    font-weight: 0;
+
+}
+
+.dudi{
+    width: 48%;
+    line-height: 35px;
+    margin-top: 30px;
+    font-size: 19px;
+    font-weight: 0;
+}
+
+
+@media (max-width:850px){
+    .boltp{
+        width: 100%;
+        font-size:30px ;
+    }
+    .jalia{
+        width: 100%;
+
+    }
+    .dudi{
+        width: 100%;
+    }
+
+}
+@media (max-width:450px){
+    .boltp{
+        font-size: 25px;
+        
+    }
+}
+.hing{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.fulip{
+    width: 80%;
+
+}
+.colu{
+    width: 100%;
+    height: 100%;
+}
+
+.sunhan{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.dadu{
+    width: 80%;
+    text-align: center;
+}
+.wlop{
+    color: rgb(255, 81, 0);
+    
+    font-size: 150px;
+}
+.lpluyy{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     margin-top: -40px;
+     
+}
+.dplia{
+    width: 60%;
+    font-size:20px ;
+    line-height: 40px;
+    
+}
+.riop{
+    margin-top: 40px;
+}
+.golp{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(231, 230, 230);
+}
+.wkop{
+    font-size: 16px;
+    margin-top: 10px;
+
+}
+.pwlo{
+    font-weight: 100;
+    color: rgb(255, 81, 0);
+}
+
+
+
+@media (max-width:890px) {
+    .dplia{
+        width: 100%;
+        font-weight: 0;
+        font-size: 18px;
+    }
+    
+}
+
+.gta{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+.grand{
+    width: 80%;
+    
+}
+.theft{
+    color: rgb(241, 181, 69);
+    font-size: 30px;
+    font-weight: 600;
+}
+.auto{
+    margin-top: 50px;
+    width: 80%;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 100;
+}
+.saint{
+    width: 50%;
+    
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 30px;
+}
+.row{
+    width: 51%;
+    
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 30px;
+}
+@media (max-width:885px) {
+    .auto{
+        font-size: 35px;
+        width: 100%;
+    }
+    
+}
+@media (max-width:725px){
+    .saint{
+        width: 100%;
+    }
+    .row{
+        width: 100%;
+    }
+}
+@media (max-width:550px){
+    .auto{
+        font-size: 25px;
+    }
+}
+
+
+.ero{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 100px;
+}
+.high{
+    width: 80%;
+}
+.iplo{
+    width: 100%;
+    height: 100%;
+}
+.frank{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+.line{
+    width: 80%;
+    text-align: center;
+}
+.jupi{
+    font-size: 150px;
+    color: rgb(241, 181, 69);
+
+
+}
+.ter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -40px;
+}
+.jungi{
+    width: 67%;
+    font-size: 22px;
+    line-height: 40px;
+
+}
+.ploto{
+    margin-top: 40px;
+ 
+}
+.plot{
+    margin-top: 30px;
+    color: rgb(219, 217, 217);
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.total{
+    margin-top: 30px;
+    font-size: 17px;
+
+
+}
+.bang{
+    font-weight: 100;
+    color: rgb(241, 181, 69);
+}
+@media (max-width:650px) {
+    .jungi{
+        width: 100%;
+    }
+    
+
+
+}
+
+.count{
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    width: 100%;
+}
+
+.strik{
+    width: 80%;
+}
+.zom{
+    font-size: 30px;
+    color: rgb(60, 60, 243);
+}
+.jerry{
+    margin-top: 50px;
+    font-size: 40px;
+    line-height: 60px;
+    width: 80%;
+    font-weight: 100;
+}
+.slik{
+    font-size: 18px;
+    line-height: 30px;
+    width: 46%;
+    margin-top: 40px;
+}
+.aslo{
+    font-size: 18px;
+    line-height: 30px;
+    width: 46%;
+    margin-top: 40px;
+}
+
+@media (max-width:740px) {
+    .jerry{
+        width: 100%;
+        font-size: 25px;
+    }
+    .slik{
+        width: 100%;
+    }
+    .aslo{
+        width: 100%;
+    }
+
+    
+}
+
+
+.santo{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.vegass{
+    width: 80%;
+    text-align: center;
+}
+.bhot{
+    width: 100%;
+    height: 100%;
+}
+
+.jani{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.gazal{
+    width: 80%;
+    text-align: center;
+
+}
+.break{
+    font-size: 150px;
+    color: rgb(101, 101, 240);
+}
+.bunk{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30px;
+}
+.dikar{
+    width:66%;
+    font-size: 22px;
+    line-height: 40px;
+}
+.lol{
+    margin-top: 40px;
+}
+.eran{
+    margin-top: 30px;
+    color: rgb(211, 207, 207);
+    font-size: 19px;
+    font-weight:600 ;
+}
+.bhsi{
+    margin-top: 25px;
+    font-size: 17px;
+
+}
+.lip{
+    font-weight: 100;
+    color: rgb(101, 101, 240);
+
+}
+@media (max-width:610px) {
+    .dikar{
+        width: 100%;
+    }
+    
+}
+.dopli{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.alok{
+    width: 80%;
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: 800;
+}
+.boli{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.shona{
+    width: 80%;
+    display: flex;
+
+}
+.shonu{
+    width: 60%;
+}
+.slpi{
+    color: rgb(8, 238, 188);
+}
+.shogan{
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 60px;
+}
+.bip{
+    margin-top: 40px;
+    font-size: 18px;
+    width: 78%;
+    line-height: 30px;
+}
+.bop{
+    margin-top: 40px;
+    font-size: 18px;
+    width: 78%;
+    line-height: 30px;
+}
+.shoni{
+    width: 40%;
+    
+}
+.hing{
+    width: 80%;
+    height: 60%;
+    text-align: center;
+    
+}
+
+
+.loki{
+    display: flex;
+    margin-top: 40px;
+}
+.small{
+    margin-left: 150px;
+}
+.young{
+    display: flex;
+
+}
+.bhpol{
+    margin-top: 20px;
+    display: flex;
+}
+.ynung{
+    display: flex;
+}
+.itri{
+    display: flex;
+    margin-top: 20px
+}
+
+
+
+
+.topo{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+    
+}
+
+.topl{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+
+}
+.topk{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+}
+
+
+.tplo{
+    margin-left: 10px;
+}
+
+.topd{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+}
+.tpls{
+    margin-left: 10px;
+}
+
+
+
+ 
+
+
+
+@media (max-width:940px) {
+    .shona{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .shoni{
+        margin-top: -0px;
+        
+    }
+    .hing{
+        margin-top: 0px;
+        width: 300px;
+        height: 200px;
+    }
+    .shonu{
+        width: 100%;
+        margin-top: 50px;
+
+    }
+    .slpi{
+        font-size: 25px;
+    }
+    .shogan{
+        font-size: 28px;
+        font-weight: 100;
+    }
+    
+}
+@media (max-width:600px){
+    .bip{
+        width: 100%;
+    
+    }
+    .bop{
+        width: 100%;
+    }
+    .young{
+        display: flex;
+        flex-direction: column;
+    }
+} 
+@media (max-width:640px){
+    .loki{
+        flex-direction: column;
+        width: 100%;
+    }
+    .tplo{
+        margin-left: 10px;
+    }
+    .small{
+        margin-left: 0;
+
+    }
+    .topl{
+        margin-bottom: 20px;
+    }
+    .tpls{
+        margin-left: 26px;
+        margin-top: -16px;
+    }
+    .topd{
+        margin-top: 20px;
+    }
+}
+a{
+    text-decoration: none;
+}
+.poit{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.rito{
+    width: 80%;
+    display: flex;
+}
+.uni{
+    width: 40%;
+}
+.bunto{
+    width: 100%;
+    height: 10  0%;
+}
+.bunga{
+    width: 60%;
+}
+.ento{
+    color: rgb(88, 88, 243);
+    font-size: 30px;
+}
+.buto{
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: 100;
+    line-height: 60px;
+
+}
+.bhuto{
+    font-size: 18px;
+    line-height: 30px;
+    width: 80%;
+    margin-top: 40px;
+}
+.jawad{
+    font-size: 18px;
+    line-height: 30px;
+    width: 77%;
+    margin-top: 40px;
+}
+@media (max-width:780px) {
+    .rito{
+        flex-direction: column-reverse;
+    }
+    .uni{
+        width: 70%;
+    }
+    .bunga{
+        margin-top: 70px;
+        width: 100%;
+    }
+    .ento{
+        font-size: 23px;
+    }
+    .buto{
+        font-size: 27px;
+    }
+    .bhuto{
+        width: 100%;
+    }
+    .jawad{
+        width: 100%;
+    }
+    
+}
+.dogi{
+    margin-top: 50px;
+}
+.ago{
+    display: flex;
+    margin-top: 30px;
+}
+.tapli{
+    color: rgb(88, 88, 243);
+    background-color: rgb(88, 88, 243);
+    border-radius: 50px;
+}
+.hung{
+    margin-left: 15px;
+}
+.qoplk{
+    display: flex;
+    width: 100%;
+}
+.dogg{
+   
+    margin-top: 50px;
+    margin-left: 17%;
+}
+@media (max-width:1000px) {
+    .qoplk{
+        flex-direction: column;
+    }
+    .dogg{
+        margin-top: 0;
+        margin-left: 0;
+    }
+    
+}
+.supli{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 80px;
+}
+.adplo{
+    width:80%;
+}
+.lolipop{
+    font-size: 40px;
+    width: 70%;
+    line-height: 60px;
+}
+.sanja{
+    margin-top: 40px;
+    font-size: 22px;
+    line-height: 30px;
+    width: 490px;
+}
+.longer{
+    margin-top: 30px;
+}
+.cena{
+    border: none;
+    outline: none;
+    background-color: rgb(31, 30, 30);
+    width: 283px;
+    border-radius: 5px;
+    height: 50px;
+    padding-left: 10px;
+    color: #fff;
+    
+}
+::-webkit-input-placeholder{
+    color: #fff;
+    
+}
+.cenaa{
+    border: none;
+    outline: none;
+    background-color: rgb(31, 30, 30);
+    width: 283px;
+    border-radius: 5px;
+    height: 50px;
+    padding-left: 10px;
+    margin-left: 20px;
+    color: #fff;
+}
+.cnen{
+    border: none;
+    outline: none;
+    background-color: rgb(31, 30, 30);
+    width: 600px;
+    border-radius: 5px;
+    height: 50px;
+    padding-left: 10px;
+    margin-top: 20px;
+    color: #fff;
+}
+.salam{
+    border: none;
+    outline: none;
+    background-color: rgb(31, 30, 30);
+    width: 600px;
+    border-radius: 5px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: #fff;
+}
+.randy{
+    margin-top: 20px;
+    font-size: 27px;
+    cursor: pointer;
+
+}
+.jony:hover{
+    transform: translatex(10px);
+    transition: .5s;
+
+}
+@media (max-width:770px) {
+    .longer{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .cenaa{
+        margin-top: 25px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .cnen{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .cena{
+        width: 100%;
+        
+    }
+    .salam{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .sanja{
+        width: 100%;
+    }
+
+    .lolipop{
+        width: 100%;
+        font-size: 28px;
+    }
+}
+.mail{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.gmail{
+    width: 80%;
+}
+.jlop{
+    font-size: 40px;
+    width: 80%;
+    line-height: 60px;
+}
+.crono{
+    color: rgb(8, 238, 188);
+    padding-bottom: 5px;
+    
+    
+}
+.crono:hover{
+    border-bottom: 4px solid rgb(8, 238, 188) ;
+    transition: .3s;
+}
+@media (max-width:690px) {
+    .jlop{
+        font-size: 30px;
+        width: 100%;
+    }
+    
+}
+@media (max-width:530px){
+    .jlop{
+        font-size: 20px;
+    }
+}
